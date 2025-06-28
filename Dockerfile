@@ -10,4 +10,3 @@ WORKDIR $APP_HOME
 
 CMD ["java", "-jar", "app.jar"]
 
-more work more money
